@@ -1,3 +1,5 @@
+package br.com.letscode.java;
+
 public class Condicionais {
     public static void main(String[] args) {
         int nota = 50;

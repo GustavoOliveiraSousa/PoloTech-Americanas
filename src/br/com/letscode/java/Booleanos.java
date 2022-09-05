@@ -1,3 +1,5 @@
+package br.com.letscode.java;
+
 public class Booleanos {
     public static void main(String[] args) {
         boolean fimDeSemana = true;

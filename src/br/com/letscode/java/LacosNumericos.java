@@ -1,3 +1,5 @@
+package br.com.letscode.java;
+
 public class LacosNumericos {
     public static void main(String[] args) {
         //Numeros de 0 à 10

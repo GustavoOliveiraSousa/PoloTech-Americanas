@@ -1,3 +1,5 @@
+package br.com.letscode.java;
+
 import java.util.Arrays;
 
 public class Vetores {
